@@ -1,3 +1,10 @@
 export default function Home() {
-  return <div>teste</div>;
+  return (
+    <><html lang="pt-br"></html><div>
+      <h1>
+        <br />
+        teste
+      </h1>
+    </div></>
+  );
 }
