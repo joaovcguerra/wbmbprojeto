@@ -5,7 +5,7 @@ export default function Home() {
       <title>Web Mobile</title>
     <h1>teste novo</h1>
       </header>
-      <a href='https://wbmbprojeto-oc1u.vercel.app/'target='_blank'>
+      <a src='https://wbmbprojeto-oc1u.vercel.app/'target='_blank'>
       <img src='https://avatars.githubusercontent.com/u/99694870?v=4&size=40' 
       width={100} height={100}/>
       </a>
