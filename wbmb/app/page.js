@@ -13,7 +13,7 @@ export default function Home() {
       <a href='https://github.com/joaovcguerra/wbmbprojeto.git'target='_blank'>Meu Repositório</a>
       </p>
       <p>
-        <img src='C:\Users\joaov\OneDrive\Documentos\cadeira de web e mobile\wbmbprojeto\wbmb\public'/>
+        <img src="C:\Users\joaov\OneDrive\Documentos\cadeira de web e mobile\wbmbprojeto\wbmb\public\Logo2.png"/>
       </p>
       </>
   )
