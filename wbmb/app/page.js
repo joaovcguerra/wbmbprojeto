@@ -1,6 +1,11 @@
 export default function Home() {
   return (
-    <><div>teste novo</div>
-      <div><img>https://avatars.githubusercontent.com/u/99694870?v=4&size=40</img></div></>
+    <>
+    <header>
+    <h1>teste novo</h1>
+      </header>
+      <img src='https://avatars.githubusercontent.com/u/99694870?v=4&size=40' 
+      width={100} height={100}/>
+      </>
   )
 }
