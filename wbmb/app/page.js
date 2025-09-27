@@ -112,6 +112,7 @@ export default function Home() {
             <li><span>Python</span> <SkillRating level={4} /></li>
             <li><span>C</span> <SkillRating level={3} /></li>
             <li><span>Css</span> <SkillRating level={2} /></li>
+            <li><span>MySQL</span> <SkillRating level={4} /></li>
             <li><span>Comunicação</span> <SkillRating level={5} /></li>
             <li><span>Trabalho em Equipe</span> <SkillRating level={5} /></li>
           </ul>

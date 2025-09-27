@@ -111,6 +111,10 @@ export default function JogoForca() {
         })}
       </div>
 
+      <button onClick={startGame} className={styles.restartButton}>
+        Reiniciar Jogo
+      </button>
+
       {(isWinner || isLoser) && (
         <div className={styles.gameOverModal}>
           <h2>{isWinner ? 'Você Venceu!' : 'Você Perdeu!'}</h2>
