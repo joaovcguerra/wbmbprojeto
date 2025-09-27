@@ -1,6 +1,13 @@
 :root {
   --background: #f4f4f4;
   --foreground: #171717;
+  --primary-color: #d94b4b;
+  --sidebar-bg: #2c2c2c;
+  --main-bg: #ffffff;
+  --text-light: #f0f0f0;
+  --text-dark: #333333;
+  --text-muted: #6c757d;
+  --border-color: #e9ecef;
 }
 
 html,
